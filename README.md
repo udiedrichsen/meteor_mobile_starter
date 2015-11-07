@@ -1,4 +1,4 @@
-# meteor_mobile_starter
+# meteor_mobile_starter (DONT USE THIS NOW: WIP)
 Meteor starter project for mobile development. All scripts are developed using a Mac.
 
 # State
