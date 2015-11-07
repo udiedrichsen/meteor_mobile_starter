@@ -26,3 +26,4 @@ Provide a solid base for Meteor Mobile developement with the following core func
 
 # Used packages
 https://atmospherejs.com/particle4dev/cordova-fb
+https://atmospherejs.com/izzilab/material-ui
