@@ -20,4 +20,4 @@ Provide a solid base for Meteor Mobile developement with the following core func
 # Shell scripts
 
 # Used packages
-https://atmospherejs.com/percolate/safe-reload
+https://atmospherejs.com/particle4dev/cordova-fb
